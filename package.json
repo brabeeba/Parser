@@ -1,0 +1,24 @@
+{
+  "name": "tagparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "bower": "^1.4.1",
+    "browser-sync": "^2.2.1",
+    "browserify": "^8.1.3",
+    "exorcist": "^0.4.0",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.3",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.0.0",
+    "watchify": "^2.3.0"
+  }
+}
